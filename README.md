@@ -1,4 +1,4 @@
-#Assignment 2
+**#Assignment 2**
 
 #Task 1
 Python program that takes an integer input from the user and checks whether the number is even or odd using an if-else statement and displays the result accordingly.
